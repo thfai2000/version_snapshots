@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 yaml_folder="$1"
 snapshot_name="$2"
 postfix="1"

@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 # Function to update the version and artifact path based on the name
 update_yaml() {
   local yaml_file="$1"
